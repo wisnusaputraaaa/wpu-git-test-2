@@ -1,5 +1,0 @@
-function sayName(yourName){
-console.log(`Hello ${yourName}`)
-}
-
-sayName(Wisnu);
